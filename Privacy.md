@@ -4,7 +4,8 @@
 
 ### User & Guild Data
 * All command interactions are securely logged for the purpose of bug fixing.
-* Guild names and user game wins (e.g. Connect Four wins) are stored for the guild-wide leaderboard.
+* User IDs and Guild IDs are stored for the guild-wide wins leaderboard.
+* You may personally contact me to request deletion of your data from a leaderboard (see P.S.).
 
 ### Post Script Notes
 *Written by developer of ConnectXO. Reviewed by peers. <br>
